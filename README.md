@@ -19,7 +19,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: SQL, DAX, M, Python
+- **Languages**: Python, SQL, DAX, M
 - **Tools**: Power BI, Azure Data Factory, Logic Apps, Git, VS Code
 - **Platforms**: SQL Server, Azure, GitHub
   
